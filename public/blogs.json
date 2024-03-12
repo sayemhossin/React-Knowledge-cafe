@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/fFn63w1/background.jpg",
+      "title": "The Secret Garden",
+      "author": "Lily Johnson",
+      "author_image": "https://i.ibb.co/kMnW7jS/download.jpg",
+      "posted_date": "March 12, 2024",
+      "reading_time": 5,
+      "hashtags": ["#gardening", "#fiction", "#secrets"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/fFn63w1/background.jpg",
+      "title": "Beyond the Stars",
+      "author": "Alex Parker",
+      "author_image": "https://i.ibb.co/kMnW7jS/download.jpg",
+      "posted_date": "March 11, 2024",
+      "reading_time": 10,
+      "hashtags": ["#scifi", "#adventure", "#space"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/fFn63w1/background.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Emily Smith",
+      "author_image": "https://i.ibb.co/kMnW7jS/download.jpg",
+      "posted_date": "March 10, 2024",
+      "reading_time": 15,
+      "hashtags": ["#fantasy", "#magic", "#adventure"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/fFn63w1/background.jpg",
+      "title": "The Art of Persistence",
+      "author": "David Brown",
+      "author_image": "https://i.ibb.co/kMnW7jS/download.jpg",
+      "posted_date": "March 9, 2024",
+      "reading_time": 20,
+      "hashtags": ["#selfhelp", "#motivation", "#success"]
+    }
+
+  ]
+  
